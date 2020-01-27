@@ -1,0 +1,102 @@
+body {
+    background-color: slateblue;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    text-align: right;
+}
+ul{
+    
+}
+
+input {
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.submit  {
+    width: 100%;
+    background-color: turquoise;
+    padding: 10px 20px;
+}
+
+.submit:hover{
+    opacity: .7;
+}
+
+.button{
+    width: fit-content;
+    text-align: right;
+    background-color: turquoise;
+    padding: 10px 20px;
+    
+
+}
+.button:hover{
+        opacity: .7;
+}
+.signup_box{
+    background-color: white;
+    text-align: center;
+    height: 50%;
+    width: 300px;
+    margin: auto ;
+    padding: 50px;
+    
+
+} 
+
+.info{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: white;
+    padding: 20px;
+    
+    width: 100%;
+    text-align: right;
+    border-color: slategray;
+    border-bottom-style: solid; 
+    
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    align-content: center;
+  }
+  
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-instagram{
+    background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+
+  }
+    
+
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
